@@ -1,4 +1,4 @@
-# Guz_Donemi_Projem_1.Sinif U+000A
+# Guz_Donemi_Projem_1.Sinif
  
 Bu Program İrem Atak & Bahadır Aksakal Tarafından Yazılmıştır. 
  
