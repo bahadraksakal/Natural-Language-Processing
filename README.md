@@ -1,8 +1,8 @@
-# Guz_Donemi_Projem_1.Sinif
+#Natural Language Processing - Basic
  
-Bu Program İrem Atak & Bahadır Aksakal Tarafından Yazılmıştır. 
- 
-@Bursa_Technical_University/Computer_Engineering
+Bu Program İrem Atak & Bahadır Aksakal Tarafından Yazılmıştır.  
  
 @Bu program kullanıcının girdiği metnin, hangi dilde yazıldığını buluyor 
+
+@Bursa_Technical_University/Computer_Engineering First year First semester
  
