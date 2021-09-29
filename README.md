@@ -1,4 +1,4 @@
-# Natural-Language-Processing-Basic
+# Natural Language Processing Basic With C Language
  
 Bu Program İrem Atak & Bahadır Aksakal Tarafından Yazılmıştır.  
  
