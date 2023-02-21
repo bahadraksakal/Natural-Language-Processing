@@ -1,12 +1,16 @@
 # Natural Language Processing Basic With C Language 
- 
-@Bu program kullanıcının girdiği metnin, hangi dilde yazıldığını bulmaktadır.
-@Bursa_Technical_University/Computer_Engineering First year First semester
 
 <h3 align="center" color="Darkblue">Ahmet Bahadır Aksakal - İrem Atak</h3>
 <h4 align="center" color="Darkblue">20360859079</h4>
+<h5 align="center" color="Darkblue">Bursa Teknik Üniversitesi - 1. Sınıf 1.Dönem - Algoritma ve Programlama Dersi Proje Ödevi</h5>
 
 <ol>
+  <li>
+      <h3 color="Red">Program Ne Yapar</h3>
+      <ul>
+        <li>Bu program kullanıcının girdiği metnin, hangi dilde yazıldığını bulmaktadır.</li>
+      </ul>
+  </li>
   <li>
       <h3 color="Red">Projede Kullanılan Teknoloji Ve Diller:</h3>
       <ul>
