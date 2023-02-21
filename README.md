@@ -145,7 +145,7 @@
       </ul>
   </li>
   <li>
-      <h3 color="Red">Oyundan Görseller:</h3>
+      <h3 color="Red">Programdan Görseller:</h3>
       <ul>
         <li><img src="GorsellerReadme/1.png"></li> 
         <li><img src="GorsellerReadme/2.png"></li>
